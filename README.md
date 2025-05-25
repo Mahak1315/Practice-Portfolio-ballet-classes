@@ -4,11 +4,7 @@ A single-page responsive website for a fictional ballet studio, built using **HT
 
 ## 🔗 Live Preview
 
-[View Live Site](https://mahak1315.github.io/petal-and-pointe/)  
-
-## 🖼️ Preview
-
-![Website Screenshot](resources/screenshot.png)
+[View Live Site](https://mahak1315.github.io/Practice-Portfolio-ballet-classes/)  
 
 ## ✨ Features
 
