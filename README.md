@@ -1,1 +1,38 @@
-# Practice-Portfolio-ballet-classes
+# 🌸 Petal & Pointe – Ballet Studio Website
+
+A single-page responsive website for a fictional ballet studio, built using **HTML**, **CSS**, and **Bootstrap 5**. This is my first web development project!
+
+## 🔗 Live Preview
+
+[View Live Site](https://mahak1315.github.io/petal-and-pointe/)  
+
+## 🖼️ Preview
+
+![Website Screenshot](resourses/screenshot.png)
+
+## ✨ Features
+
+- Responsive navigation bar and dropdown
+- Bootstrap carousel with three ballet-themed images
+- Sections for:
+  - About Us
+  - What Makes Us Unique
+  - Our Innovative Team
+  - Contact Form
+- Fixed background with soft overlay for aesthetic appeal
+- Footer with contact and social links
+
+## 📁 Technologies Used
+
+- HTML5
+- CSS3
+- Bootstrap 5
+- Bootstrap Icons
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/Mahak1315/petal-and-pointe.git
