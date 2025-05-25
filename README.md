@@ -8,7 +8,7 @@ A single-page responsive website for a fictional ballet studio, built using **HT
 
 ## 🖼️ Preview
 
-![Website Screenshot](resourses/screenshot.png)
+![Website Screenshot](resources/screenshot.png)
 
 ## ✨ Features
 
